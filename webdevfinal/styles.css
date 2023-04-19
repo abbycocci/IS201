@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: peachpuff;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: maroon;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: blue;
+}
+.ResumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+.homebg { 
+    background-image: url('../images/BackgroundImageColorfulCloud.webp');
+    background-position: center;
+}
+.bold { font-weight: bold;}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+}
+
